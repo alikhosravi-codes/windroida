@@ -1,0 +1,4 @@
+# Installed automatically by start.bat (start.py). Everything is optional: the messenger still works without them,
+# but without "cryptography" there is no https certificate, and without "Pillow" profile photos are stored as-is.
+Pillow>=10
+cryptography>=42
